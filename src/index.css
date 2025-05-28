@@ -1,8 +1,8 @@
 body {
   margin: 0;
   background: radial-gradient(circle at center, 
-              rgba(18, 18, 210, 0.8) 0%, 
-              #0a0a3a 100%);
+              rgba(27, 114, 43, 0.899) 0%, 
+              #0a3a14 100%);
   color: #f0f0f0;
   font-family: 'Avenir Next', 'Segoe UI', system-ui, sans-serif;
   display: flex;
